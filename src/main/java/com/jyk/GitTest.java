@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("master分支修改");
         System.out.println("hot-fix修改了代码");
         System.out.println("测试 push");
+        System.out.println("测试 pull");
     }
 }
