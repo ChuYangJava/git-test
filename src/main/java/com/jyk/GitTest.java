@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello!初阳");
         System.out.println("hello!Linux");
         System.out.println("hot-fix分支修改");
+        System.out.println("master分支修改");
     }
 }
